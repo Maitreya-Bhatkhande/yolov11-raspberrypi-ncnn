@@ -1,0 +1,3 @@
+/home/user/yoloncnn/build/CMakeFiles/yoloncnn.dir
+/home/user/yoloncnn/build/CMakeFiles/edit_cache.dir
+/home/user/yoloncnn/build/CMakeFiles/rebuild_cache.dir
