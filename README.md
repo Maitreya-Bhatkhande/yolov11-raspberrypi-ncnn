@@ -173,7 +173,7 @@ model-opt.param \
 model-opt.bin \
 /home/user/yoloncnn/data/calib_imgs/calib_list.txt \
 model.table \
-mean=0 norm=0.0039216 shape=480,480,3 pixel=BGR thread=4 method=kl
+mean=0 norm=0.0039216 shape=480,480,3 pixel=BGR thread=4 method=aciq
 ```
 ### Convert to INT8
 ```
