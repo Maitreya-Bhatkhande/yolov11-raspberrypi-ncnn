@@ -139,7 +139,7 @@ public:
             net.opt.use_fp16_arithmetic = true;
         }      
         net.opt.use_packing_layout = true;      
-        net.opt.num_threads = 4;
+        net.opt.num_threads = 3;
 
         net.load_param((model_path + ".param").c_str());
         net.load_model((model_path + ".bin").c_str());
